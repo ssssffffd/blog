@@ -5,9 +5,6 @@
 .project
 .classpath
 
-
-
-
 # generated files
 */**/target/
 **/target/
@@ -41,5 +38,7 @@ Thumbs.db
 
 
 **/*.iml
+
+*.patch
 
 
